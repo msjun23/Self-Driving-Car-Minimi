@@ -18,7 +18,7 @@ Used Jetson Nano for image processing and learning. Result of lane detecting and
 For motor control, used PID controller. Error input is deviation, from center of lane and robot's current position(center of horizontal camera image).
 
 ![slide1](/result/image/slide1.PNG){width=300 height=300}
-<img src="/result/image/slide1.PNG" width="300" height="300">
+<img src="/result/image/slide1.PNG" width="50%" height="50%">
 ![slide2](/result/image/slide2.PNG)
 ![slide3](/result/image/slide3.PNG)
 ![slide4](/result/image/slide4.PNG)
