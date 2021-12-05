@@ -26,4 +26,4 @@ For motor control, used PID controller. Error input is deviation, from center of
 
 ---
 
-My posting about this project is [here](https://msjun23.github.io/projects/Project-2020-2-Self-Driving-Car/)
+My epilogue about this project is [here](https://msjun23.github.io/projects/Project-2020-2-Self-Driving-Car/)
